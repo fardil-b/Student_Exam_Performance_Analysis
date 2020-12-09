@@ -14,7 +14,9 @@
 - Matplotlib 
 - seaborn
 - Scikit learn
-- or just run __pip install -r requirements.txt__ to install all the packages needed
+
+-The dependencies are included in `requirements.txt` and can be installed using
+`pip` with `pip install -r requirements.txt`
 
 ## Project Motivation<a name="motivation"></a>
 
