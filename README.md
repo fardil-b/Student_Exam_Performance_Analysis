@@ -14,7 +14,7 @@
 - Matplotlib 
 - seaborn
 - Scikit learn
-- The code should run with no issues using Python versions 3.*.
+- or just run __pip install -r requirements.txt__ to install all the packages needed
 
 ## Project Motivation<a name="motivation"></a>
 
