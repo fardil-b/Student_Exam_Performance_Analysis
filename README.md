@@ -1,4 +1,4 @@
-# Student_Performance
+# Student Exam Performance Analysis
 Effect of Student exam performance (test scores) by several factors (Gender, Ethnicity, Parental level of education, Lunch, Test preparation course)
 
 ### Table of Contents
