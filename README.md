@@ -25,9 +25,10 @@ For this project, I was interestested in using Students Performance in Exams dat
 
 1. Factors that contribute to good exam performance 
 2. Does gender and ethnicity have any impact on performance?
-3. Does the parents level of education has any impact on their child performance ?
-4. Does test preparation course course leads to better exam performance?
-5. Does the lunch types have any effect on exam performance?
+3. Does test preparation course course leads to better exam performance?
+4. Does the lunch types have any effect on exam performance?
+5. Does the parents level of education has any impact on their child performance ?
+
 
 
 ## File Descriptions <a name="files"></a>
